@@ -1,3 +1,7 @@
+# 1.4.4 
+
+- Not added in upstream
+
 ## [1.3.3](https://github.com/soldair/node-qrcode/compare/v1.3.2...v1.3.3) (2019-01-16)
 
 fixing security vulnerabillities reported by users of snyk and `npm audit` major
