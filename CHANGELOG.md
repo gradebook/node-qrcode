@@ -1,3 +1,9 @@
+# 1.4.5
+
+This is a temporary fork of https://github.com/soldair/node-qrcode/ which adds ESM support.
+
+- Add ESM build
+
 # 1.4.4 
 
 - Not added in upstream
@@ -96,6 +102,3 @@ no breaking changes. promoting to a stable semver
 
 
 ## 0.0.2 (2010-12-27)
-
-
-
